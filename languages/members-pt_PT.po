@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Members\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/members\n"
 "POT-Creation-Date: 2016-08-08 14:56+0100\n"
-"PO-Revision-Date: 2016-08-08 16:47+0100\n"
+"PO-Revision-Date: 2016-08-08 18:35+0100\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -285,7 +285,7 @@ msgid ""
 "to list per screen using the Screen Options tab."
 msgstr ""
 "Pode mostrar ou esconder colunas com base nas suas necessidades e decidir "
-"quantos papéis são listados por página usando o separador \"Opções deste ecrã"
+"quantos papéis são listados por ecrã usando o separador \"Opções deste ecrã"
 "\"."
 
 #: admin/class-roles.php:273
@@ -309,8 +309,8 @@ msgid ""
 "<strong>Edit</strong> takes you to the editing screen for that role. You can "
 "also reach that screen by clicking on the role name."
 msgstr ""
-"<strong>Editar</strong> abre a página de edição do papel. Pode abrir esta "
-"página ao clicar no nome do papel."
+"<strong>Editar</strong> abre o ecrã de edição do papel. Pode abrir este ecrã "
+"ao clicar no nome do papel."
 
 #: admin/class-roles.php:292
 msgid ""
@@ -325,15 +325,15 @@ msgid ""
 "<strong>Clone</strong> copies the role and takes you to the new role screen "
 "to further edit it."
 msgstr ""
-"<strong>Clonar</strong> copia o papel e abre a página de edição do novo "
-"papel para o poder editar."
+"<strong>Clonar</strong> copia o papel e abre o ecrã de edição do novo papel "
+"para o poder editar."
 
 #: admin/class-roles.php:294
 msgid ""
 "<strong>Users</strong> takes you to the users screen and lists the users "
 "that have that role."
 msgstr ""
-"<strong>Utilizadores</strong> abre a página dos utilizadores e lista os "
+"<strong>Utilizadores</strong> abre o ecrã dos utilizadores e lista os "
 "utilizadores que têm esse papel."
 
 #: admin/class-roles.php:308
@@ -911,7 +911,7 @@ msgstr "O método não existe."
 
 #. Plugin Name of the plugin/theme
 msgid "Members"
-msgstr "Members"
+msgstr "Membros"
 
 #. Plugin URI of the plugin/theme
 msgid "http://themehybrid.com/plugins/members"
